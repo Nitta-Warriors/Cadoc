@@ -9,9 +9,9 @@
     <TextView
         android:id="@+id/TopMessage"
         android:layout_width="wrap_content"
-        android:layout_height="38dp"
-        android:text="start"
-        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="CaDoc"
+        android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
